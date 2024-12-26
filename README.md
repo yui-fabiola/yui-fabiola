@@ -12,8 +12,5 @@ _.Soy Desarrollador web desde 2009._
 
 _ PHP , Java , c# 
 
-```
-Da un ejemplo
-```
 
 
